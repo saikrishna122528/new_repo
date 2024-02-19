@@ -1,3 +1,5 @@
+Note: Use "VS Code"
+
 1)Download all the resources provided on this repo link "https://github.com/saikrishna122528/new_repo.git" 
 
 2)Use "npm install" in the terminal to install all the dependencies.
